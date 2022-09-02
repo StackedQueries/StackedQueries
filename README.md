@@ -8,7 +8,7 @@ I'm a full stack developer that is constantly working on cool stuff and creating
 
 ## 🔗 Links
 [My site](tyler-richards.com)
-## Other Common Github Profile Sections
+## What I'm up to
 👩‍💻 I'm currently working on building a larger network
 
 🧠 I'm currently learning about everything business
