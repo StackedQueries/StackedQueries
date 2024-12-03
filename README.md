@@ -3,18 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer that is constantly working on cool stuff and creating content about it
+I write code
 
 
 ## 🔗 Links
 [My site](https://tyler-richards.com)
 ## What I'm up to
-👩‍💻 I'm currently working on building a larger network
-
-🧠 I'm currently learning about everything business
-
-👯‍♀️ I'm looking to collaborate on pretty much anything JS related
+- mostly web bots 
 
 📫 You can reach me at [my email](mailto:tyler@tyler-richards.com)
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, Building SAAS products, creating value, product development
+arcane computer incantations
